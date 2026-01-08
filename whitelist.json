@@ -1,0 +1,7 @@
+{
+  "processes": [
+    "python3",
+    "bash",
+    "systemd"
+  ]
+}
