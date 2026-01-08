@@ -1,2 +1,2 @@
 ip,mac,hostname,vendor,os,first_seen,last_seen,open_ports,services,is_trusted,risk_score,vulnerabilities
-10.29.208.1,38:aa:09:f2:84:55,Unknown,Unknown,Unknown,2026-01-08T18:16:38.553904,2026-01-08T18:16:38.553915,,{},False,0,
+10.29.208.1,39:aa:09:ff:84:67,Unknown,Unknown,Unknown,2026-01-08T18:16:38.553904,2026-01-08T18:16:38.553915,,{},False,0,
