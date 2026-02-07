@@ -40,7 +40,8 @@ sudo apt-get update
 sudo apt-get install python3 python3-pip nmap iw wireless-tools
 
 
-pip3 install psutil scapy netifaces python-nmap pandas requests prettytable --break-system-packages
+pip3 install psutil scapy netifaces python-nmap requests prettytable --break-system-packages
+sudo pip3 install pandas --break-system-packages
 ```
 
 **Note for Wi-Fi Monitoring**: If you plan to use wireless monitoring features, you'll need:
